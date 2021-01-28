@@ -1,0 +1,5 @@
+/env/
+/resource/
+/backend/production.py
+/backend/local.py
+/backend/private.py
